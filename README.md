@@ -4,7 +4,7 @@
 
 ```text
 $ whoami
-systems-oriented engineer in progress
+rootaashu
 ```
 
 I enjoy understanding how things work beneath the surface — from memory management and operating systems to networking and distributed systems.
@@ -16,5 +16,3 @@ I enjoy understanding how things work beneath the surface — from memory manage
 - Backend engineering and distributed systems
 - Open-source software and collaborative development
 
-### Philosophy
-> Build things. Understand the abstractions. Question what's underneath.
