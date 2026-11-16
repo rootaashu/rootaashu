@@ -7,12 +7,4 @@ $ whoami
 rootaashu
 ```
 
-I enjoy understanding how things work beneath the surface — from memory management and operating systems to networking and distributed systems.
-
-### Currently Exploring
-- Systems programming with C, C++ & Rust
-- Linux internals and operating systems
-- Networking, SDN & infrastructure
-- Backend engineering and distributed systems
-- Open-source software and collaborative development
-
+Building close to the metal. Exploring systems, Linux internals, and the engineering behind software
